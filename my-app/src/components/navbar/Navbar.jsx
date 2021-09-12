@@ -16,7 +16,6 @@ const Navbar = () => {
         <div className="left">
           <img
             src="https://upload.wikimedia.org/wikipedia/commons/0/08/Netflix_2015_logo.svg"
-            // src="https://wallpapercave.com/wp/wp7478420.jpg"
             alt=""
           />
           <span>Home</span>
